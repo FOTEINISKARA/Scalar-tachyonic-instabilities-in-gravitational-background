@@ -13,7 +13,7 @@ It is well known that the Klein Gordon (KG) equation $\Box \Phi + m^2\Phi=0$  ha
 
 If you use any of the above codes or the figures in a published work please cite the following paper:
 
-Hubble tension or a transition of the Cepheid SnIa calibrator parameters?
+Scalar tachyonic instabilities in gravitational backgrounds: Existence and growth rate
 
 Leandros Perivolaropoulos and Foteini Skara  arXiv:2009.05640
 
